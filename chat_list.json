@@ -1,0 +1,24 @@
+[
+    {
+        "source": -1001543827137,
+        "destinations": [
+            -1001654543181
+        ],
+        "prefix": "/qbleech",
+    }, 
+    {
+        "source": -1001979268733,
+        "destinations": [
+            -1001654543181,
+        ],
+        "prefix": "/qbleech",
+    },
+    {
+        "source": -1001808816596,
+        "destinations": [
+            -1001654543181,
+        ],
+        "prefix": "/clone",
+        "suffix": "-e"
+    }
+]
